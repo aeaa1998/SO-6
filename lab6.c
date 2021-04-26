@@ -53,39 +53,51 @@ rk_sema_post(struct rk_sema *s)
 #endif
 }
 
-struct rk_sema check_value, check_pass;
-#define THREAD_NUM 100
+struct rk_sema check_value, rest_value_condition, unblock;
+#define THREAD_NUM 5
 #define THREAD_ITER_NUM 5
-int shared_resources = 5000000;
+int shared_resources = 5;
 pthread_t threads[THREAD_NUM];
+FILE *fPtr;
 
 void *mutate_resources(void *vargp)
 {
 
     pthread_t ptid = pthread_self();
 
-    printf("Iniciando threads %ld \n", (long)ptid);
+    // printf("Iniciando threads %ld \n", (long)ptid);
+    fprintf(fPtr, "Iniciando threads %ld \n", (long)ptid);
     int it_num;
     for (it_num = 0; it_num < THREAD_ITER_NUM; it_num++)
     {
-        printf("%ld - Iniciando iteracion %d\n", (long)ptid, it_num + 1);
-        // rk_sema_wait(&check_pass);
-        // if (shared_resources <= 1)
-        // {
-        rk_sema_wait(&check_value);
-        // }
-        // rk_sema_post(&check_pass);
+        fprintf(fPtr, "%Thread ld - Iniciando iteracion %d\n", (long)ptid, it_num + 1);
+
+        rk_sema_wait(&rest_value_condition);
+
+        if (shared_resources - 1 < 0)
+        {
+            rk_sema_wait(&check_value);
+        }
         shared_resources--;
-        printf("Recurso tomado\n");
-        //Pretends to do some work
-        sleep(rand() % 2);
-        printf("Buenos dias recurso usado :)\n");
+        fprintf(fPtr, " Thread %ld - !(i) - Recurso tomado\n", (long)ptid);
+        rk_sema_post(&rest_value_condition);
+        printf("Recursos restantes %d\n", shared_resources);
+        sleep(rand() % 5);
+        fprintf(fPtr, " Thread %ld - Buenos dias recurso usado:)\n ", (long)ptid);
+
+        rk_sema_wait(&unblock);
         shared_resources++;
-        printf("Recurso retornado\n");
-        rk_sema_post(&check_value);
+        fprintf(fPtr, " Thread %ld - Recurso retornado\n ", (long)ptid);
+
+        if (shared_resources > 0)
+        {
+            rk_sema_post(&check_value);
+        }
+        rk_sema_post(&unblock);
     }
 
-    return NULL;
+    pthread_exit(0);
+    // return NULL;
 }
 
 void init_threads()
@@ -99,14 +111,22 @@ void init_threads()
 
 int main()
 {
-    rk_sema_init(&check_value, 1);
-    rk_sema_init(&check_pass, 1);
+    fPtr = fopen("bitacora-semaphores.txt", "w");
+    if (fPtr == NULL)
+    {
+        printf("Unable to create file.\n");
+        exit(EXIT_FAILURE);
+    }
+    rk_sema_init(&check_value, 0);
+    rk_sema_init(&rest_value_condition, 1);
+    rk_sema_init(&unblock, 1);
     init_threads();
     int index_thread;
     for (index_thread = 0; index_thread < THREAD_NUM; index_thread++)
     {
         pthread_join(threads[index_thread], NULL);
     }
+    fclose(fPtr);
     printf("END\n");
     return 0;
 }

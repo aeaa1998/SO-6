@@ -1,0 +1,106 @@
+Iniciando threads 123145363193856 
+Iniciando threads 123145364803584 
+Iniciando threads 123145364267008 
+Iniciando threads 123145362657280 
+Thread ld - Iniciando iteracion 61956096
+Thread ld - Iniciando iteracion 60346368
+Thread ld - Iniciando iteracion 60882944
+ Thread 123145364267008 - !(i) - Recurso tomado
+Iniciando threads 123145363730432 
+Thread ld - Iniciando iteracion 61419520
+Thread ld - Iniciando iteracion 62492672
+ Thread 123145363193856 - !(i) - Recurso tomado
+ Thread 123145363730432 - !(i) - Recurso tomado
+ Thread 123145362657280 - !(i) - Recurso tomado
+ Thread 123145364803584 - !(i) - Recurso tomado
+ Thread 123145363730432 - Buenos dias recurso usado:)
+  Thread 123145363730432 - Recurso retornado
+ Thread ld - Iniciando iteracion 61419520
+ Thread 123145363730432 - !(i) - Recurso tomado
+ Thread 123145364267008 - Buenos dias recurso usado:)
+  Thread 123145364267008 - Recurso retornado
+ Thread ld - Iniciando iteracion 61956096
+ Thread 123145364267008 - !(i) - Recurso tomado
+ Thread 123145363730432 - Buenos dias recurso usado:)
+  Thread 123145363730432 - Recurso retornado
+ Thread ld - Iniciando iteracion 61419520
+ Thread 123145363730432 - !(i) - Recurso tomado
+ Thread 123145363193856 - Buenos dias recurso usado:)
+  Thread 123145363193856 - Recurso retornado
+ Thread ld - Iniciando iteracion 60882944
+ Thread 123145363193856 - !(i) - Recurso tomado
+ Thread 123145364803584 - Buenos dias recurso usado:)
+  Thread 123145364803584 - Recurso retornado
+ Thread ld - Iniciando iteracion 62492672
+ Thread 123145364803584 - !(i) - Recurso tomado
+ Thread 123145362657280 - Buenos dias recurso usado:)
+  Thread 123145362657280 - Recurso retornado
+ Thread ld - Iniciando iteracion 60346368
+ Thread 123145362657280 - !(i) - Recurso tomado
+ Thread 123145362657280 - Buenos dias recurso usado:)
+  Thread 123145362657280 - Recurso retornado
+ Thread ld - Iniciando iteracion 60346368
+ Thread 123145362657280 - !(i) - Recurso tomado
+ Thread 123145362657280 - Buenos dias recurso usado:)
+  Thread 123145362657280 - Recurso retornado
+ Thread ld - Iniciando iteracion 60346368
+ Thread 123145362657280 - !(i) - Recurso tomado
+ Thread 123145363730432 - Buenos dias recurso usado:)
+  Thread 123145363730432 - Recurso retornado
+ Thread ld - Iniciando iteracion 61419520
+ Thread 123145363730432 - !(i) - Recurso tomado
+ Thread 123145363193856 - Buenos dias recurso usado:)
+  Thread 123145363193856 - Recurso retornado
+ Thread ld - Iniciando iteracion 60882944
+ Thread 123145363193856 - !(i) - Recurso tomado
+ Thread 123145362657280 - Buenos dias recurso usado:)
+  Thread 123145362657280 - Recurso retornado
+ Thread ld - Iniciando iteracion 60346368
+ Thread 123145362657280 - !(i) - Recurso tomado
+ Thread 123145364267008 - Buenos dias recurso usado:)
+  Thread 123145364267008 - Recurso retornado
+ Thread ld - Iniciando iteracion 61956096
+ Thread 123145364267008 - !(i) - Recurso tomado
+ Thread 123145364803584 - Buenos dias recurso usado:)
+  Thread 123145364803584 - Recurso retornado
+ Thread ld - Iniciando iteracion 62492672
+ Thread 123145364803584 - !(i) - Recurso tomado
+ Thread 123145363730432 - Buenos dias recurso usado:)
+  Thread 123145363730432 - Recurso retornado
+ Thread ld - Iniciando iteracion 61419520
+ Thread 123145363730432 - !(i) - Recurso tomado
+ Thread 123145363730432 - Buenos dias recurso usado:)
+  Thread 123145363730432 - Recurso retornado
+  Thread 123145363193856 - Buenos dias recurso usado:)
+  Thread 123145363193856 - Recurso retornado
+ Thread ld - Iniciando iteracion 60882944
+ Thread 123145363193856 - !(i) - Recurso tomado
+ Thread 123145364267008 - Buenos dias recurso usado:)
+  Thread 123145364267008 - Recurso retornado
+ Thread ld - Iniciando iteracion 61956096
+ Thread 123145364267008 - !(i) - Recurso tomado
+ Thread 123145362657280 - Buenos dias recurso usado:)
+  Thread 123145362657280 - Recurso retornado
+  Thread 123145363193856 - Buenos dias recurso usado:)
+  Thread 123145363193856 - Recurso retornado
+ Thread ld - Iniciando iteracion 60882944
+ Thread 123145363193856 - !(i) - Recurso tomado
+ Thread 123145364803584 - Buenos dias recurso usado:)
+  Thread 123145364803584 - Recurso retornado
+ Thread ld - Iniciando iteracion 62492672
+ Thread 123145364803584 - !(i) - Recurso tomado
+ Thread 123145364267008 - Buenos dias recurso usado:)
+  Thread 123145364267008 - Recurso retornado
+ Thread ld - Iniciando iteracion 61956096
+ Thread 123145364267008 - !(i) - Recurso tomado
+ Thread 123145364267008 - Buenos dias recurso usado:)
+  Thread 123145364267008 - Recurso retornado
+  Thread 123145363193856 - Buenos dias recurso usado:)
+  Thread 123145363193856 - Recurso retornado
+  Thread 123145364803584 - Buenos dias recurso usado:)
+  Thread 123145364803584 - Recurso retornado
+ Thread ld - Iniciando iteracion 62492672
+ Thread 123145364803584 - !(i) - Recurso tomado
+ Thread 123145364803584 - Buenos dias recurso usado:)
+  Thread 123145364803584 - Recurso retornado
+ 

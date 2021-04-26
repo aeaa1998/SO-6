@@ -1,0 +1,169 @@
+Iniciando threads 123145566781440 
+Iniciando threads 123145567318016 
+Thread 123145567318016 - Iniciando iteracion 1 
+Iniciando threads 123145567854592 
+Iniciando threads 123145568391168 
+Thread 123145566781440 - Iniciando iteracion 1 
+Thread 123145568391168 - Iniciando iteracion 1 
+Iniciando threads 123145568927744 
+Thread 123145568927744 - Iniciando iteracion 1 
+Thread 123145567318016 - Initializing monitor to decrease count 
+Thread 123145567854592 - Iniciando iteracion 1 
+ Thread 123145567318016 - !(i) - Recurso tomado
+Thread 123145566781440 - Initializing monitor to decrease count 
+ Thread 123145566781440 - !(i) - Recurso tomado
+Thread 123145568391168 - Initializing monitor to decrease count 
+ Thread 123145567318016 - Buenos dias recurso usado:)
+ Thread 123145567318016 - Updating monitor to decrease count 
+Thread 123145568391168 - Initializing monitor to decrease count 
+ Thread 123145567318016 - Recurso retornado
+ Thread 123145567318016 - Iniciando iteracion 2 
+ Thread 123145568391168 - !(i) - Recurso tomado
+Thread 123145568927744 - Initializing monitor to decrease count 
+ Thread 123145568927744 - !(i) - Recurso tomado
+Thread 123145567854592 - Initializing monitor to decrease count 
+ Thread 123145566781440 - Buenos dias recurso usado:)
+ Thread 123145566781440 - Updating monitor to decrease count 
+Thread 123145567854592 - Initializing monitor to decrease count 
+ Thread 123145566781440 - Recurso retornado
+ Thread 123145566781440 - Iniciando iteracion 2 
+ Thread 123145567854592 - !(i) - Recurso tomado
+Thread 123145567318016 - Initializing monitor to decrease count 
+ Thread 123145567854592 - Buenos dias recurso usado:)
+ Thread 123145567854592 - Updating monitor to decrease count 
+ Thread 123145567854592 - Recurso retornado
+ Thread 123145567854592 - Iniciando iteracion 2 
+Thread 123145567318016 - Initializing monitor to decrease count 
+ Thread 123145567318016 - !(i) - Recurso tomado
+Thread 123145566781440 - Initializing monitor to decrease count 
+ Thread 123145566781440 - !(i) - Recurso tomado
+Thread 123145567854592 - Initializing monitor to decrease count 
+ Thread 123145568391168 - Buenos dias recurso usado:)
+ Thread 123145568391168 - Updating monitor to decrease count 
+ Thread 123145568391168 - Recurso retornado
+ Thread 123145568391168 - Iniciando iteracion 2 
+Thread 123145567854592 - Initializing monitor to decrease count 
+ Thread 123145567854592 - !(i) - Recurso tomado
+Thread 123145568391168 - Initializing monitor to decrease count 
+ Thread 123145567318016 - Buenos dias recurso usado:)
+ Thread 123145567318016 - Updating monitor to decrease count 
+Thread 123145568391168 - Initializing monitor to decrease count 
+ Thread 123145568927744 - Buenos dias recurso usado:)
+  Thread 123145566781440 - Buenos dias recurso usado:)
+  Thread 123145568391168 - !(i) - Recurso tomado
+ Thread 123145567318016 - Recurso retornado
+ Thread 123145567318016 - Iniciando iteracion 3 
+Thread 123145567318016 - Initializing monitor to decrease count 
+ Thread 123145567318016 - !(i) - Recurso tomado
+Thread 123145568927744 - Updating monitor to decrease count 
+ Thread 123145568927744 - Recurso retornado
+ Thread 123145568927744 - Iniciando iteracion 2 
+Thread 123145568927744 - Initializing monitor to decrease count 
+Thread 123145566781440 - Updating monitor to decrease count 
+ Thread 123145566781440 - Recurso retornado
+ Thread 123145566781440 - Iniciando iteracion 3 
+ Thread 123145567854592 - Buenos dias recurso usado:)
+ Thread 123145567854592 - Updating monitor to decrease count 
+Thread 123145568927744 - Initializing monitor to decrease count 
+ Thread 123145567854592 - Recurso retornado
+ Thread 123145567854592 - Iniciando iteracion 3 
+ Thread 123145568927744 - !(i) - Recurso tomado
+Thread 123145566781440 - Initializing monitor to decrease count 
+ Thread 123145567318016 - Buenos dias recurso usado:)
+ Thread 123145567318016 - Updating monitor to decrease count 
+ Thread 123145567318016 - Recurso retornado
+ Thread 123145567318016 - Iniciando iteracion 4 
+ Thread 123145568927744 - Buenos dias recurso usado:)
+ Thread 123145568927744 - Updating monitor to decrease count 
+ Thread 123145568927744 - Recurso retornado
+ Thread 123145568927744 - Iniciando iteracion 3 
+Thread 123145566781440 - Initializing monitor to decrease count 
+ Thread 123145566781440 - !(i) - Recurso tomado
+Thread 123145567854592 - Initializing monitor to decrease count 
+ Thread 123145568391168 - Buenos dias recurso usado:)
+ Thread 123145568391168 - Updating monitor to decrease count 
+ Thread 123145568391168 - Recurso retornado
+ Thread 123145568391168 - Iniciando iteracion 3 
+Thread 123145567854592 - Initializing monitor to decrease count 
+ Thread 123145567854592 - !(i) - Recurso tomado
+Thread 123145567318016 - Initializing monitor to decrease count 
+ Thread 123145567854592 - Buenos dias recurso usado:)
+ Thread 123145567854592 - Updating monitor to decrease count 
+Thread 123145567318016 - Initializing monitor to decrease count 
+ Thread 123145567854592 - Recurso retornado
+ Thread 123145567854592 - Iniciando iteracion 4 
+ Thread 123145567318016 - !(i) - Recurso tomado
+Thread 123145568927744 - Initializing monitor to decrease count 
+ Thread 123145568927744 - !(i) - Recurso tomado
+Thread 123145568391168 - Initializing monitor to decrease count 
+ Thread 123145568927744 - Buenos dias recurso usado:)
+ Thread 123145568927744 - Updating monitor to decrease count 
+ Thread 123145568927744 - Recurso retornado
+ Thread 123145568927744 - Iniciando iteracion 4 
+Thread 123145568391168 - Initializing monitor to decrease count 
+ Thread 123145568391168 - !(i) - Recurso tomado
+Thread 123145567854592 - Initializing monitor to decrease count 
+ Thread 123145567318016 - Buenos dias recurso usado:)
+ Thread 123145567318016 - Updating monitor to decrease count 
+ Thread 123145566781440 - Buenos dias recurso usado:)
+ Thread 123145567854592 - Initializing monitor to decrease count 
+ Thread 123145567318016 - Recurso retornado
+ Thread 123145567318016 - Iniciando iteracion 5 
+Thread 123145566781440 - Updating monitor to decrease count 
+ Thread 123145567854592 - !(i) - Recurso tomado
+Thread 123145568927744 - Initializing monitor to decrease count 
+ Thread 123145566781440 - Recurso retornado
+ Thread 123145566781440 - Iniciando iteracion 4 
+ Thread 123145568927744 - !(i) - Recurso tomado
+Thread 123145567318016 - Initializing monitor to decrease count 
+ Thread 123145567318016 - !(i) - Recurso tomado
+Thread 123145566781440 - Initializing monitor to decrease count 
+ Thread 123145568391168 - Buenos dias recurso usado:)
+ Thread 123145568391168 - Updating monitor to decrease count 
+ Thread 123145568391168 - Recurso retornado
+ Thread 123145568391168 - Iniciando iteracion 4 
+Thread 123145566781440 - Initializing monitor to decrease count 
+ Thread 123145566781440 - !(i) - Recurso tomado
+Thread 123145568391168 - Initializing monitor to decrease count 
+ Thread 123145566781440 - Buenos dias recurso usado:)
+ Thread 123145566781440 - Updating monitor to decrease count 
+Thread 123145568391168 - Initializing monitor to decrease count 
+ Thread 123145566781440 - Recurso retornado
+ Thread 123145566781440 - Iniciando iteracion 5 
+ Thread 123145568391168 - !(i) - Recurso tomado
+Thread 123145566781440 - Initializing monitor to decrease count 
+ Thread 123145566781440 - !(i) - Recurso tomado
+ Thread 123145567854592 - Buenos dias recurso usado:)
+  Thread 123145568927744 - Buenos dias recurso usado:)
+ Thread 123145568927744 - Updating monitor to decrease count 
+ Thread 123145567318016 - Buenos dias recurso usado:)
+  Thread 123145568927744 - Recurso retornado
+ Thread 123145568927744 - Iniciando iteracion 5 
+Thread 123145568927744 - Initializing monitor to decrease count 
+Thread 123145567854592 - Updating monitor to decrease count 
+ Thread 123145567854592 - Recurso retornado
+  Thread 123145568927744 - !(i) - Recurso tomado
+Thread 123145567318016 - Updating monitor to decrease count 
+ Thread 123145567318016 - Recurso retornado
+ Thread 123145567854592 - Iniciando iteracion 5 
+Thread 123145567854592 - Initializing monitor to decrease count 
+ Thread 123145567854592 - !(i) - Recurso tomado
+ Thread 123145566781440 - Buenos dias recurso usado:)
+ Thread 123145566781440 - Updating monitor to decrease count 
+ Thread 123145566781440 - Recurso retornado
+  Thread 123145567854592 - Buenos dias recurso usado:)
+ Thread 123145567854592 - Updating monitor to decrease count 
+ Thread 123145567854592 - Recurso retornado
+  Thread 123145568391168 - Buenos dias recurso usado:)
+ Thread 123145568391168 - Updating monitor to decrease count 
+ Thread 123145568391168 - Recurso retornado
+ Thread 123145568391168 - Iniciando iteracion 5 
+Thread 123145568391168 - Initializing monitor to decrease count 
+ Thread 123145568391168 - !(i) - Recurso tomado
+ Thread 123145568927744 - Buenos dias recurso usado:)
+ Thread 123145568927744 - Updating monitor to decrease count 
+ Thread 123145568927744 - Recurso retornado
+  Thread 123145568391168 - Buenos dias recurso usado:)
+ Thread 123145568391168 - Updating monitor to decrease count 
+ Thread 123145568391168 - Recurso retornado
+ 
